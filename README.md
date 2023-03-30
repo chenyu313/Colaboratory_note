@@ -8,3 +8,6 @@ colab笔记存储
 
 ## Pytorch-lightning 笔记
 * pytorch-lightning入门
+* 保存和加载检查点
+* 早停法
+* 用过CLI配置超参数(trainer.py)
